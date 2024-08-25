@@ -1,0 +1,158 @@
+{
+    "easy": [
+        {
+            "question": "Which planet is known as the Red Planet?",
+            "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+            "answer": "Mars"
+        },
+        {
+            "question": "What is the primary color of bananas?",
+            "options": ["Red", "Yellow", "Blue", "Green"],
+            "answer": "Yellow"
+        },
+        {
+            "question": "Which animal is known for its ability to change color?",
+            "options": ["Chameleon", "Elephant", "Penguin", "Kangaroo"],
+            "answer": "Chameleon"
+        },
+        {
+            "question": "How many legs does a spider have?",
+            "options": ["6", "8", "10", "12"],
+            "answer": "8"
+        },
+        {
+            "question": "Which ocean is the largest?",
+            "options": ["Atlantic", "Indian", "Pacific", "Arctic"],
+            "answer": "Pacific"
+        },
+        {
+            "question": "Which fruit is known for having many seeds on the outside?",
+            "options": ["Apple", "Strawberry", "Banana", "Orange"],
+            "answer": "Strawberry"
+        },
+        {
+            "question": "How many days are in a week?",
+            "options": ["5", "6", "7", "8"],
+            "answer": "7"
+        },
+        {
+            "question": "Which color do you get by mixing red and white?",
+            "options": ["Orange", "Pink", "Purple", "Green"],
+            "answer": "Pink"
+        },
+        {
+            "question": "What is the name of Mickey Mouse's dog?",
+            "options": ["Goofy", "Pluto", "Donald", "Minnie"],
+            "answer": "Pluto"
+        },
+        {
+            "question": "Which month comes after June?",
+            "options": ["May", "July", "August", "September"],
+            "answer": "July"
+        }
+    ],
+    "medium": [
+        {
+            "question": "What is the capital of Australia?",
+            "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+            "answer": "Canberra"
+        },
+        {
+            "question": "Which language is spoken in Brazil?",
+            "options": ["Spanish", "Portuguese", "French", "English"],
+            "answer": "Portuguese"
+        },
+        {
+            "question": "What is the smallest prime number?",
+            "options": ["1", "2", "3", "5"],
+            "answer": "2"
+        },
+        {
+            "question": "What is the largest desert in the world?",
+            "options": ["Sahara", "Arabian", "Gobi", "Antarctic"],
+            "answer": "Antarctic"
+        },
+        {
+            "question": "Who wrote 'Romeo and Juliet'?",
+            "options": ["Charles Dickens", "Jane Austen", "William Shakespeare", "Mark Twain"],
+            "answer": "William Shakespeare"
+        },
+        {
+            "question": "Which gas do plants absorb from the atmosphere?",
+            "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+            "answer": "Carbon Dioxide"
+        },
+        {
+            "question": "What is the chemical symbol for gold?",
+            "options": ["G", "Au", "Ag", "Go"],
+            "answer": "Au"
+        },
+        {
+            "question": "In which year did the Titanic sink?",
+            "options": ["1905", "1912", "1918", "1925"],
+            "answer": "1912"
+        },
+        {
+            "question": "Which element has the atomic number 1?",
+            "options": ["Helium", "Hydrogen", "Oxygen", "Nitrogen"],
+            "answer": "Hydrogen"
+        },
+        {
+            "question": "What is the hardest natural substance on Earth?",
+            "options": ["Gold", "Iron", "Diamond", "Quartz"],
+            "answer": "Diamond"
+        }
+    ],
+    "hard": [
+        {
+            "question": "What is the tallest mountain in the world?",
+            "options": ["K2", "Kangchenjunga", "Mount Everest", "Lhotse"],
+            "answer": "Mount Everest"
+        },
+        {
+            "question": "Which is the longest river in the world?",
+            "options": ["Amazon", "Nile", "Yangtze", "Mississippi"],
+            "answer": "Nile"
+        },
+        {
+            "question": "Who developed the theory of relativity?",
+            "options": ["Isaac Newton", "Galileo Galilei", "Nikola Tesla", "Albert Einstein"],
+            "answer": "Albert Einstein"
+        },
+        {
+            "question": "Which element is known as the 'King of Chemicals'?",
+            "options": ["Sulfuric Acid", "Hydrochloric Acid", "Nitric Acid", "Acetic Acid"],
+            "answer": "Sulfuric Acid"
+        },
+        {
+            "question": "What is the speed of light in a vacuum?",
+            "options": ["300,000 km/s", "150,000 km/s", "250,000 km/s", "200,000 km/s"],
+            "answer": "300,000 km/s"
+        },
+        {
+            "question": "Which country has won the most FIFA World Cups?",
+            "options": ["Germany", "Italy", "Argentina", "Brazil"],
+            "answer": "Brazil"
+        },
+        {
+            "question": "What is the heaviest naturally occurring element?",
+            "options": ["Uranium", "Osmium", "Platinum", "Gold"],
+            "answer": "Uranium"
+        },
+        {
+            "question": "Which artist painted the ceiling of the Sistine Chapel?",
+            "options": ["Leonardo da Vinci", "Raphael", "Donatello", "Michelangelo"],
+            "answer": "Michelangelo"
+        },
+        {
+            "question": "What is the largest internal organ in the human body?",
+            "options": ["Lungs", "Brain", "Heart", "Liver"],
+            "answer": "Liver"
+        },
+        {
+            "question": "Which Shakespeare play features the characters Rosencrantz and Guildenstern?",
+            "options": ["Macbeth", "Hamlet", "Othello", "King Lear"],
+            "answer": "Hamlet"
+        }
+    ]
+}

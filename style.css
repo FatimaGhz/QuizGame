@@ -1,0 +1,102 @@
+*{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 14px;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color:  #afeeeea9;
+}
+.container {
+    display: flex;
+    flex-direction: column;  
+    justify-content: center;
+    align-items: center;     
+    height: 100vh;   
+    background-color:#FFFBF2;
+    width: 40%;   
+    margin: 0 auto;
+    border: #AFEEEE;
+    border-radius: 5%;
+    
+}
+#question{
+    font-size: 18px;
+    color:#37474F ;
+    margin-bottom: 1rem;
+}
+       
+
+h1{
+    font-size: 35px;
+    color: #37474F;
+    margin-bottom: 1rem;
+}
+h2{
+    font-size: 25px;
+    color: #AFEEEE;
+    margin-bottom: 1rem;
+}
+button {
+    background-color: #FFB6C1;
+    color: #FFFFFF;
+    padding: 25px 30px;
+    border: none;
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.3s;
+    width: 100%;
+    margin-bottom: 1rem;
+}
+
+button:hover {
+    background-color: #AFEEEE;
+    transform: scale(1.05);
+}
+#Timer{
+    color: #37474F;
+    font-size: 17px;
+    margin-bottom: 1rem;
+}
+
+/* Correct answer highlight */
+.option-btn.correct {
+    background-color: #98FB98; /* Pale Green */
+    color: #004d00; /* Dark Green for text */
+    border: 2px solid #004d00; /* Dark Green border */
+}
+
+/* Incorrect answer highlight */
+.option-btn.incorrect {
+    background-color: #FF6347; /* Tomato */
+    color: #fff; /* White text */
+    border: 2px solid #d43f3a; /* Darker Tomato border */
+}
+
+#try-again-btn {
+    background-color: #FFB6C1;
+    color: #FFFFFF;
+    padding: 15px 25px;
+    border: none;
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.3s;
+    margin-top: 1rem;
+}
+
+#try-again-btn:hover {
+    background-color: #AFEEEE;
+    transform: scale(1.05);
+}
+/*
+Background: #FFFBF2 (Soft Cream)
+Primary Text: #37474F (Blue Gray)
+Buttons: #FFB6C1 (Light Pink)
+Accent: #AFEEEE (Pale Turquoise)
+Correct Answer Highlight: #98FB98 (Pale Green)
+Incorrect Answer Highlight: #FF6347 (Tomato)*/
